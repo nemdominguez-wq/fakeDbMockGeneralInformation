@@ -63,5 +63,13 @@
     { "name": "E" },
     { "name": "M" },
     { "name": "R" }
+  ],
+  "unidadPeso":[
+    {"name":"Kilogramos:kg"},
+    {"name":"Centímetros:cm"}
+  ],
+  "unidadMedida":[
+    {"name":"Gramos:g"},
+    {"name":"Metros:m"}
   ]
 }
