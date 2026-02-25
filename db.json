@@ -44,5 +44,8 @@
     "name": "México",
     "code": "MX"
   }
+],
+"serviciosSat":[
+  { "name": "60141007 - Juguetes para montar", "code": "JM" }
 ]
 }
