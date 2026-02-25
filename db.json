@@ -46,6 +46,22 @@
   }
 ],
 "serviciosSat":[
-  { "name": "60141007 - Juguetes para montar", "code": "JM" }
-]
+  { "name": "60141007 - Juguetes para montar", "code": "JM" },
+  { "name": "70152118 - Juguetes armables", "code": "JA" },
+  { "name": "70252129 - Juguetes", "code": "JU" },
+  { "name": "80563410 - Videojuegos" }
+],
+"estatus": [
+    { "name": "LÍNEA" },
+    { "name": "PRUEBA" },
+    { "name": "REGALO" },
+    { "name": "ONE SHOT" }
+  ],
+  "modosEntrega": [
+    { "name": "T" },
+    { "name": "B" },
+    { "name": "E" },
+    { "name": "M" },
+    { "name": "R" }
+  ]
 }
