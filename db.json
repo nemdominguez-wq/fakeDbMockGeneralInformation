@@ -44,22 +44,5 @@
     "name": "México",
     "code": "MX"
   }
-],
-  "serviciosSat":[
-  {
-    "name": "60141007 - Juguetes para montar",
-    "code": "JM"
-  },
-  {
-    "name": "70152118 - Juguetes armables",
-    "code": "JA"
-  },
-  {
-    "name": "70252129 - Juguetes",
-    "code": "JU"
-  },
-  {
-    "name": "80563410 - Videojuegos"
-  }
 ]
 }
